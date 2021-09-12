@@ -1,3 +1,2 @@
-<title>Hey, My name's Animation!</title>
-
+Hey, My name's Animation!
 <h1>test</h1>
