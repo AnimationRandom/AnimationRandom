@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                                                                     <title>AnimationRandom</title>
+                                                                     <title>Animation's Dumb Site</title>
                                                                      </head>
 <body>
                                                                      <h1>test</h1>
