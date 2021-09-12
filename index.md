@@ -7,7 +7,7 @@
                                                                      </head>
 <body>
                                                                      <h1>test</h1>
-  <a href="/contact.html"></a>
+  <a href="/Info.html"></a>
                                                                      <p>innit</p>
                                                                      </body>
                                                                      </html>
