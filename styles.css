@@ -28,3 +28,7 @@ ul li a:hover{
   background-color: #fff;
   color: #fff;
 }
+
+.main{
+  max-width: 1200px
+}
