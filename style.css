@@ -13,11 +13,11 @@ float: right;
   margin-top: 25px;
 }
 
-ui li{
+ul li{
   display: inline-block;
 }
 
-ui li a{
+ul li a{
   text-decoration: none;
   color: #fff;
   padding: 5px 20px;
