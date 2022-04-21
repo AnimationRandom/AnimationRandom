@@ -41,7 +41,7 @@ ul li a:hover{
   animation: change 10s ease-in-out infinite;
 }
 
-@keyframes change{
+@keyframes change {
   0%{
     background-position: 0 50%;
   }
